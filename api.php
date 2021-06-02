@@ -85,6 +85,7 @@ $profile = json_decode($profile, TRUE);
 
 <br>
 <div class="container">
+<h1 class="text-center">INI FAKHRY YANG EDIT</h1>
 <h1 class="text-center">DATA ALUMNI</h1>
 <h2 class="text-center"> Prodi Teknik Informatika </h2>
 <h3 class="text-center"> NAL University</h3><hr>
